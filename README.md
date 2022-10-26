@@ -2,8 +2,7 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
-<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;"> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedtamer0&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedtamer0" /> </p>
+
 
 ### Hey devs
 
