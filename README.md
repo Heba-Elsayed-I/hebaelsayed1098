@@ -24,7 +24,7 @@
 ### React Native Projects :
 
   - [**Movies List :**](https://github.com/hebaelsayed1098/TMDB-APP-React-Native) That shows a list of movies retrieved via an online TMDB API.
-    - [Video Link](https://drive.google.com/drive/u/0/my-drive)
+    - [Video Link](https://drive.google.com/drive/u/0/folders/192GFa136Ie1Z1aIPHImJiE2WPLPVm_k6)
 
 ## Back End :
 
@@ -42,7 +42,7 @@
  - [**Ecommerce Web Application**](https://github.com/Omniakhalid/E-commerce-website) It allows people to buy and sell products with different categories over             internet and also provide online payment.
 
       - **Used Technologies:** ASP.NET core 5 , Entity Framework.
-      - [Video Link](https://drive.google.com/drive/u/0/my-drive)
+      - [Video Link](https://drive.google.com/drive/u/0/folders/1Q10bedJSEGcOX6KrdhnM76wUaTWFgVt3)
 
 ## Desktop Application :
 
