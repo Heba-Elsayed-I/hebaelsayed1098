@@ -6,7 +6,7 @@
 
 ### Hey devs
 
-👨🏼‍💻I'm Software Engineer My Name's Heba , 24 Years Old. I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I have knowledge in React, React Native, JavaScript, OOP, algorithm and data structures,solid principles,design patterns,Methodologies: Agile – Scrum.
+👨🏼‍💻I'm Software Engineer My Name's Heba . I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I have knowledge in React, React Native, JavaScript, OOP, algorithm and data structures,solid principles,design patterns,Methodologies: Agile – Scrum.
 
 ## [Resume](https://drive.google.com/drive/u/0/folders/14i-Xb0jyAfWu57fFMpMbS9LT0XraneEg) | [LinkedIn](https://www.linkedin.com/in/heba-el-sayed/)
 
