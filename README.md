@@ -13,13 +13,13 @@
 ## Front End :
 ### React Projects :
   - [**E-Commerce Web Application :**](https://github.com/Heba-Elsayed-I/Online-Shopping) 
-  - [Live Website](https://heba-elsayed-i.github.io/Online-Shopping/)
+     - [Live Website](https://heba-elsayed-i.github.io/Online-Shopping/)
 
-  - Developed a fully functional online shopping platform allowing users to browse products, view detailed information, and add items to their shopping cart. Integrated multiple features including:
-•	Product Listings & Brand Categories: Users can view products by categories and brands and filters for easy navigation.
-•	Add to Cart & Checkout: A dynamic shopping cart functionality where users can add, remove items and proceed to checkout.
-•	Payment Integration: Seamless payment process allowing users to complete transactions securely.
-•	State Management: Utilized Redux for global state management and Context API for component-level state management to ensure smooth app performance
+      - Developed a fully functional online shopping platform allowing users to browse products, view detailed information, and add items to their shopping cart. Integrated multiple features including:
+    •	Product Listings & Brand Categories: Users can view products by categories and brands and filters for easy navigation.
+    •	Add to Cart & Checkout: A dynamic shopping cart functionality where users can add, remove items and proceed to checkout.
+    •	Payment Integration: Seamless payment process allowing users to complete transactions securely.
+    •	State Management: Utilized Redux for global state management and Context API for component-level state management to ensure smooth app performance
 
 
 ### JavaScript Projects :
